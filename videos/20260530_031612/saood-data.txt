@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-KEY:METHOD=AES-128,URI="https://saoodify-key-auth.qazslfdgcnedfcnuyhbv.workers.dev?k=4e59353747543345333953364a39454b"
+#EXTINF:6.0,
+https://cdn.jsdelivr.net/gh/Saood96/AAAAAAAAAAAAAAAAAAAAAA@main/videos/20260530_031612/seg_000.ts
+#EXT-X-ENDLIST
